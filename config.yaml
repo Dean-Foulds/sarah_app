@@ -1,0 +1,13 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    dfoulds:
+      email: deanfoulds@gmail.com
+      name: Dean Foulds
+      password: $2b$12$c3JnEP8gmCoTHv7n3gTFoO5z2uOyPQXwVcE2JU8Wqh1jOmnMX./Ji
+preauthorized:
+  emails:
+  - deanfoulds@gmail.com
