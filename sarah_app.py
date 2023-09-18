@@ -32,19 +32,19 @@ doc_ref.set({
 })
 
 
-firebase_config = {
-apiKey: "AIzaSyACe6cZbHMXQC2W3N1biiBqrtm0U4V-O0k",
-authDomain: "sarah-app-2023.firebaseapp.com",
-projectId: "sarah-app-2023",
-storageBucket: "sarah-app-2023.appspot.com",
-messagingSenderId: "836429532416",
-appId: "1:836429532416:web:b81fc9d093a43e8caaf7e5",
-measurementId: "G-HT0HG024LP"
-}
+# firebase_config = {
+# apiKey: "AIzaSyACe6cZbHMXQC2W3N1biiBqrtm0U4V-O0k",
+# authDomain: "sarah-app-2023.firebaseapp.com",
+# projectId: "sarah-app-2023",
+# storageBucket: "sarah-app-2023.appspot.com",
+# messagingSenderId: "836429532416",
+# appId: "1:836429532416:web:b81fc9d093a43e8caaf7e5",
+# measurementId: "G-HT0HG024LP"
+# }
 
-firebase=pyrebase.initilize_app(firebase_config)
+# firebase=pyrebase.initilize_app(firebase_config)
 
-storage=firebase.storage()
+# storage=firebase.storage()
 
 
 
